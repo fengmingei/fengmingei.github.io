@@ -1,0 +1,2 @@
+# fengmingei.github.io
+hexo
